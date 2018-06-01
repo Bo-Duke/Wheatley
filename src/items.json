@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Homebridge",
+    "color": "#c0392b",
+    "url": "https://example.com/homebridge"
+  },
+  {
+    "name": "Portainer",
+    "color": "#2980b9",
+    "url": "https://example.com/portainer"
+  },
+  {
+    "name": "Transmission",
+    "color": "#27ae60",
+    "url": "https://example.com/transmission"
+  },
+  {
+    "name": "Plex",
+    "color": "#f39c12",
+    "url": "https://example.com/plex"
+  },
+  {
+    "name": "Sonarr",
+    "color": "#8e44ad",
+    "url": "https://example.com/sonarr"
+  }
+]
